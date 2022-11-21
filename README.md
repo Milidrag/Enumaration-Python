@@ -1,3 +1,3 @@
-# Enumaration-Python
+# Enumeration-Python
 ## T2E1 
 Enumerate months and print them 
